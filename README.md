@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 #output/result
-<img width="117" alt="1" src="![1](https://user-images.githubusercontent.com/125723825/232845210-6f6ca6a0-735c-4278-bc8e-a0a7bdc11cc2.jpg)">
+<img width="117" alt="1" src="https://user-images.githubusercontent.com/125723825/232845210-6f6ca6a0-735c-4278-bc8e-a0a7bdc11cc2.jpg">
 
 
 ![2](https://user-images.githubusercontent.com/125723825/232845235-e3c17ab0-d95d-4b67-b73b-fee5da2233bc.jpg)
